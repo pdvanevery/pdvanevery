@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-Currently I am a student enrolled in the Full Stack Devloper Professional Certificate Program at San Diego State University's Global Campus. I have fallen in love with coding and am looking to get into my first tech job. I enjoy working on both Front End and Back End and am currently most comfortable with coding in JavaScript. Feel free to reach out about any of my projects as well as connect with me on LinkedIn! 
+I am a recent graduate of the Full Stack Devloper Professional Certificate Program at San Diego State University's Global Campus. I have fallen in love with coding and am looking to get into my first tech job. I enjoy working on both Front End and Back End and am currently most comfortable with coding in JavaScript. Feel free to reach out about any of my projects as well as connect with me on LinkedIn! 
 
 
 - 📫 You can contact me at pdvanevery@gmail.com
