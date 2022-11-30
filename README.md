@@ -7,7 +7,7 @@ I am a recent graduate of the Full Stack Devloper Professional Certificate Progr
 
 - 📫 You can contact me at pdvanevery@gmail.com
 - ✅ Open to job opportunities and collaborations
-- 💻 Link to my portfolio website https://secret-depths-59366.herokuapp.com/
+- 💻 Link to my portfolio website portfolio-website-pdv.firebaseapp.com
 - ⬇️ Check out two of my larger projects here ⬇️
 - 🍕 REST-Rant Restaurant Review App https://pumpkin-tart-95991.herokuapp.com/
 - 🎮 JS fighting game deployed here https://pdvanevery.github.io/Midterm-Project-1/
